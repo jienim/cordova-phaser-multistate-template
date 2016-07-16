@@ -37,6 +37,11 @@ the problem of orientation change on mobile devices. Just add/modify `config.xml
 	    
 	</widget>
 
+## Framework versions
+
+* Cordova v6.2.0
+* Phaser v2.6.1
+
 ## Credits
 
 Thank to Richard Davey and his post about state management [here](http://perplexingtech.weebly.com/software-blog/using-states-in-phaserjs-javascript-game-developement).
